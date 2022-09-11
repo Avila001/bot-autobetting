@@ -1,0 +1,22 @@
+MAPPING = {
+    'Arsenal': 'Arsenal',
+    'Aston Villa': 'Aston Villa',
+    'Bournemouth': 'Bournemouth',
+    'Brentford': 'Brentford',
+    'Brighton and Hove Albion': 'Brighton',
+    'Chelsea': 'Chelsea',
+    'Crystal Palace': 'Crystal Palace ',
+    'Everton': 'Everton',
+    'Fulham': 'Fulham',
+    'Leeds': 'Leeds',
+    'Leicester City': 'Leicester',
+    'Liverpool': 'Liverpool',
+    'Manchester City': 'Man City',
+    'Manchester United': 'Man Utd',
+    'Newcastle United': 'Newcastle',
+    'Nottingham Forest': 'Nottm Forest',
+    'Southampton': 'Southampton',
+    'Tottenham Hotspur': 'Tottenham',
+    'West Ham United': 'West Ham',
+    'Wolves': 'Wolves'
+}
